@@ -1,0 +1,11 @@
+openai
+PyPDF2
+python-dotenv
+azure-search-documents
+azure-storage-blob
+rich
+tiktoken
+autogen
+pytesseract
+pdf2image
+
