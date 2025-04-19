@@ -24,6 +24,7 @@ Clone the project and navigate into the directory.
 ```bash
 git clone https://github.com/PujaAmmineni/RAG_AGENTS.git
 cd RAG_AGENTS
+### Step 2: Create and Activate a Virtual Environment
 python -m venv ragenv
 ragenv\Scripts\activate
 pip install -r requirements.txt
